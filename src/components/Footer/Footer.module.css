@@ -1,0 +1,112 @@
+/* style.css */
+
+.footer {
+    position: absolute;
+    width: 1920px;
+    height: 324px;
+    left: 0px;
+    top: 3254px;
+    background: #FFFFFF;
+  }
+  
+  .column-title {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    color: #1C1C1C;
+  }
+  
+  .column-text {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #505050;
+  }
+  
+  .column-1 {
+    position: absolute;
+    left: 1.35%;
+    right: 84.27%;
+    top: 12.65%;
+    bottom: 39.2%;
+  }
+  
+  .logo {
+    position: absolute;
+    width: 118.03px;
+    height: 48.06px;
+    left: 27px;
+    top: 41px;
+  }
+  
+  .market {
+    position: absolute;
+    width: 117.6px;
+    height: 8.55px;
+    left: 27px;
+    top: 80.51px;
+    background: #000000;
+  }
+  
+  .nora1 {
+    position: absolute;
+    width: 28.04px;
+    height: 31.44px;
+    left: 27.14px;
+    top: 41px;
+    background: linear-gradient(106.69deg, #000000 -11.62%, #485BA8 -11.58%, #2B77F9 398.98%);
+  }
+  
+  .nora2 {
+    position: absolute;
+    width: 83.5px;
+    height: 26.75px;
+    left: 61.54px;
+    top: 46.14px;
+    background: linear-gradient(94.89deg, #000000 -35.21%, #485BA8 -35.19%, #2B77F9 101.22%);
+  }
+  
+  .column-2 {
+    position: absolute;
+    left: 19.01%;
+    right: 76.77%;
+    top: 12.35%;
+    bottom: 45.37%;
+  }
+  
+  .column-3 {
+    position: absolute;
+    left: 27.92%;
+    right: 67.4%;
+    top: 12.35%;
+    bottom: 45.37%;
+  }
+  
+  .column-4 {
+    position: absolute;
+    left: 37.29%;
+    right: 57.08%;
+    top: 12.35%;
+    bottom: 45.37%;
+  }
+  
+  .column-5 {
+    position: absolute;
+    left: 47.6%;
+    right: 48.33%;
+    top: 12.35%;
+    bottom: 45.37%;
+  }
+  
+  .column-6 {
+    position: absolute;
+    left: 56.35%;
+    right: 34.01%;
+    top: 12.35%;
+    bottom: 54.94%;
+  }
+  
